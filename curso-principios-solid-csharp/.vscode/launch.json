@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dependency Inversion",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/5-DependencyInversion/Api/bin/Debug/net6.0/DependencyInversion.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/5-DependencyInversion",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Interface segregation",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/4-InterfaceSegregation/bin/Debug/net6.0/InterfaceSegregation.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/4-InterfaceSegregation",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Liskov Substitution",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/3-LiskovSubstitution/bin/Debug/net6.0/LiskovSubstitution.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/3-LiskovSubstitution",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Open Close",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/2-OpenClose/bin/Debug/net6.0/OpenClose.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/2-OpenClose",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Single Responsibility",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/1-SingleResponsability/bin/Debug/net6.0/SingleResponsability.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/1-SingleResponsability",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}

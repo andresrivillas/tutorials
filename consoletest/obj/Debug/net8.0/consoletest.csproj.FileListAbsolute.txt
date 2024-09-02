@@ -1,0 +1,14 @@
+/Users/andresrivillas/Documents/Study/consoletest/bin/Debug/net8.0/consoletest
+/Users/andresrivillas/Documents/Study/consoletest/bin/Debug/net8.0/consoletest.deps.json
+/Users/andresrivillas/Documents/Study/consoletest/bin/Debug/net8.0/consoletest.runtimeconfig.json
+/Users/andresrivillas/Documents/Study/consoletest/bin/Debug/net8.0/consoletest.dll
+/Users/andresrivillas/Documents/Study/consoletest/bin/Debug/net8.0/consoletest.pdb
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/consoletest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfoInputs.cache
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfo.cs
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/consoletest.csproj.CoreCompileInputs.cache
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/consoletest.dll
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/refint/consoletest.dll
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/consoletest.pdb
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/consoletest.genruntimeconfig.cache
+/Users/andresrivillas/Documents/Study/consoletest/obj/Debug/net8.0/ref/consoletest.dll
